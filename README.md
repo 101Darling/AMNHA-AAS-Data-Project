@@ -1,2 +1,2 @@
 # AMNHA-AAS-Data-Project
-the project focuses on visualizing water stream chemical testing data to engage volunteers and the community
+This project focuses on visualizing water stream chemical testing data to engage volunteers and the community through the Arabia Mt. Adopt A Stream program implementation.
